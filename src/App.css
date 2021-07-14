@@ -1,0 +1,62 @@
+nav#MAG {
+  background: #141414;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 0%;
+  width: 100%;
+  display: flex;
+  justify-content: left;
+}
+
+#MAGhome {
+  color: beige;
+  font-size: 20px;
+}
+#MAGLink {
+  color: rgb(129, 129, 129);
+  font-size: 20px;
+}
+
+#Genres {
+  color: #f5f4f4;
+  font-weight: lighter;
+  border: solid 1px rgb(128, 128, 128);
+  background: rgb(34, 33, 33);
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#MAGTVSHOW {
+  font-size: 2rem;
+  margin-right: 35px;
+  color: #f3f1f1;
+  font-weight: lighter;
+}
+
+#MAGdicons {
+  color: #ccc8c8;
+  font-size: 25px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#logo {
+  display: flex;
+  justify-content: flex-start;
+  justify-self: flex-start;
+  padding-left: 25px;
+}
+#NewNav {
+  background: rgb(0, 0, 0);
+  color: rgb(229, 232, 235);
+}
+#icoCol {
+  display: flex;
+  padding-top: 15px;
+}
+a.nav-link {
+  padding: 0px;
+  margin: auto;
+}
